@@ -1,5 +1,0 @@
-﻿  main.c
-C:\Users\epich\OneDrive\Desktop\cpts 121\Lab4\Lab4\main.c(44,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\epich\OneDrive\Desktop\cpts 121\Lab4\Lab4\main.c(46,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\epich\OneDrive\Desktop\cpts 121\Lab4\Lab4\main.c(47,8): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Lab4.vcxproj -> C:\Users\epich\OneDrive\Desktop\cpts 121\Lab4\x64\Debug\Lab4.exe
